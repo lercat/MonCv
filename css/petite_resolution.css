@@ -1,0 +1,37 @@
+@media(min-width: 360px) {
+  nav {
+    max-width: auto;
+    text-align: left;
+  }
+
+ 
+  nav a {
+    font-size: 12px;
+  }
+
+/*@media all and (max-width: 870px){
+  header #petit  {
+    height: 10%;
+    width: 100%;
+  }
+
+   .mon-titre {
+    position: relative;
+    width: 56%;
+    top:150px;
+    margin: auto;
+    font-family: 'Averia Gruesa Libre', cursive;
+    background-color: rgba(40, 160, 252, 0.8);
+  }
+  header h1 {
+    font-size: 23px;
+    text-align: center;
+    color: white;
+    padding: 2%;
+  }
+
+  h2 {
+    margin: 2px;
+    padding-top: 2px;
+  }
+*/ 
